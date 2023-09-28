@@ -3,8 +3,12 @@
 </div>  
   
 
-### <div align="center">I've been working as a full-stack engineer 👨‍💻 for 10+ years of experience in designing and developing enterprise applications and solutions for e-commerce and telecom providers, and government sectors. Solid Experience in Java Development and Java frameworks. Enthusiastic team player excited about getting involved in the early stage of the project till delivering a working solution on production that satisfy customer's needs,  believing in automating processes willing to apply a collective skill set to push innovation in your industry and make a strong impact in the company.</div>  
-  
+### About me
+**<div align="left" >I've been working as a full-stack engineer 👨‍💻 for 10+ years of experience in designing and developing enterprise applications and solutions for e-commerce and telecom providers, and government sectors. Solid Experience in Java Development and Java frameworks. Enthusiastic team player excited about getting involved in the early stage of the project till delivering a working solution on production that satisfy customer's needs,  believing in automating processes willing to apply a collective skill set to push innovation in your industry and make a strong impact in the company.</div>**
+
+<br/>
+
+
 
 - 🔭 I’m currently working on Volvo Group IT as a full-stack consultant 🧑‍💻  
   
